@@ -5,7 +5,7 @@ authors = ["DimChtz"]
 description = "A simple and easy to use brainfuck interpreter."
 keywords = ["brainfuck", "interpreter", "brainpreter", "bf", "esoteric"]
 license = "MIT"
-repository = "https://github.com/DimChtz/rust-meshgrid"
+repository = "https://github.com/DimChtz/brainfuck/tree/master/rust-brainpreter"
 readme = "README.md"
 
 [dependencies]
