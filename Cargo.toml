@@ -1,0 +1,11 @@
+[package]
+name = "brainpreter"
+version = "0.1.0"
+authors = ["DimChtz"]
+description = "A simple and easy to use brainfuck interpreter."
+keywords = ["brainfuck", "interpreter", "brainpreter", "bf", "esoteric"]
+license = "MIT"
+repository = "https://github.com/DimChtz/rust-meshgrid"
+readme = "README.md"
+
+[dependencies]
