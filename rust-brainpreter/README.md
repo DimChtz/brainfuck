@@ -19,7 +19,6 @@ match bf.load("++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++.
 ```
 #### Compile the bf code.
 ```rust
-// For file use: .load_from_file()
 match bf.parse() {
         
     Ok(_) => {}
@@ -30,7 +29,6 @@ match bf.parse() {
 ```
 #### Finally run it.
 ```rust
-// For file use: .load_from_file()
 match bf.run() {
         
     Ok(_) => {}
