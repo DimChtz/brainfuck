@@ -4,7 +4,7 @@ A simple and easy to use Brainfuck interpreter.
 # How to use
 #### Create a new brainpreter.
 ```rust
-let mut bf = Inter::new();
+let mut bf = brainpreter::Inter::new();
 ```
 #### Load brainfuck code from text string or file.
 ```rust
