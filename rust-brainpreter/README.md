@@ -1,7 +1,7 @@
 # rust-brainpreter (brainpreter) - v0.1.0
 A simple and easy to use Brainfuck interpreter.
 
-# How to use
+# How to use (Hello world! Example)
 #### Create a new brainpreter.
 ```rust
 let mut bf = brainpreter::Inter::new();
