@@ -11,7 +11,7 @@ let mut bf = Inter::new();
 // For file use: .load_from_file()
 match bf.load("++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.") {
 
-	Ok(_) => {}
+    Ok(_) => {}
 	
     Err(e) => println!("{}", e),
 	
@@ -22,7 +22,7 @@ match bf.load("++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++.
 // For file use: .load_from_file()
 match bf.parse() {
         
-	Ok(_) => {}
+    Ok(_) => {}
 	
     Err(e) => println!("{}", e),
 
@@ -33,7 +33,7 @@ match bf.parse() {
 // For file use: .load_from_file()
 match bf.run() {
         
-	Ok(_) => {}
+    Ok(_) => {}
 	
     Err(e) => println!("{}", e),
 
