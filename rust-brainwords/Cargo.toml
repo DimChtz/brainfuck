@@ -1,0 +1,11 @@
+[package]
+name = "brainwords"
+version = "0.1.0"
+authors = ["DimChtz"]
+description = "A simple and easy to use Brainfuck code generator in Rust."
+keywords = ["brainfuck", "brainwords", "esoteric", "generator", "code"]
+license = "MIT"
+repository = "https://github.com/DimChtz/brainfuck/tree/master/rust-brainwords"
+readme = "README.md"
+
+[dependencies]
