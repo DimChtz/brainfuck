@@ -10,13 +10,13 @@ pub fn generate_bfcode<S: Into<String>>(text:S) -> String {
         let remain:u8 = if c > last_char { (c - last_char) - factor * factor } else { (last_char - c) - factor * factor };
         let dir:char    = if c > last_char { '+' } else { '-' };
 
-        for i in 0..factor { result.push('+'); }
+        for _ in 0..factor { result.push('+'); }
         result.push_str("[>");
 
-        for i in 0..factor { result.push(dir); }
+        for _ in 0..factor { result.push(dir); }
         result.push_str("<-]>");
 
-        for i in 0..remain { result.push(dir); }
+        for _ in 0..remain { result.push(dir); }
         result.push_str(".<");
 
         last_char = c;
