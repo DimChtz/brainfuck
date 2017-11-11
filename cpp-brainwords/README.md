@@ -5,7 +5,7 @@ A simple and easy to use Brainfuck code generator in C++.
 ```cpp
 std::cout << generateBFCode("Hello world!") << std::endl;
 ```
-```
+
 #### Result on the console.
 ```bash
 ++++++++[>++++++++<-]>++++++++.<+++++[>+++++<-]>++++.<++[>++<-]>+++.<[><-]>.<+[>+<-]>++.<++++++++[>--------<-]>---------------.<
