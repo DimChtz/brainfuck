@@ -4,7 +4,7 @@ A simple and easy to use Brainfuck code generator in Rust.
 
 # How to use (Hello world! Example)
 ```rust
-println!("{}", brainwords::generate_bfcode("hello world"));
+println!("{}", brainwords::generate_bfcode("Hello world!"));
 ```
 
 #### Result on the console.
