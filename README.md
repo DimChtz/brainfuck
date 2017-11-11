@@ -7,3 +7,4 @@ A Brainfuck collection.
 # Brainfuck Generators ( libraries )
 - [cpp-brainwords](https://github.com/DimChtz/brainfuck/tree/master/cpp-brainwords): Brainfuck code generator in C++.
 - [rust-brainwords](https://github.com/DimChtz/brainfuck/tree/master/rust-brainwords): Brainfuck code generator in Rust.
+- [py-brainwords](https://github.com/DimChtz/brainfuck/tree/master/py-brainwords): Brainfuck code generator in Python.
