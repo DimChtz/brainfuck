@@ -16,8 +16,15 @@ println!("{}", brainwords::generate_bfcode("hello world"));
 
 # Installation
 
-Add this line to your main.rs:
+Add this line to your Cargo.toml:
 
-```cpp
+```toml
+[dependencies]
+brainwords = "0.1.0"
+```
+
+and then add this line to your main.rs:
+
+```rust
 extern crate brainwords;
 ```
