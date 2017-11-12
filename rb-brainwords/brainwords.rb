@@ -28,11 +28,3 @@ def generateBFCode(text)
     return bf
 
 end
-
-
-
-
-#s = 'ABCDEFG'
-#for pos in 0...s.length
-#    puts s[pos].chr
-#end
