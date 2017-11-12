@@ -12,4 +12,5 @@ A Brainfuck collection.
 
 # Examples ( brainfuck code )
 - [helloworld](https://github.com/DimChtz/brainfuck/blob/master/examples/helloworld.bf): Prints: Hello world!
-- [loop10](https://github.com/DimChtz/brainfuck/blob/master/examples/loop10.bf): Loops 10 times and increases a value the same time
+- [loop10](https://github.com/DimChtz/brainfuck/blob/master/examples/loop10.bf): Loops 10 times and increases a value the same time.
+- [ascii](https://github.com/DimChtz/brainfuck/blob/master/examples/ascii.bf): Prints all the ascii characters.
