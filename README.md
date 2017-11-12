@@ -9,6 +9,7 @@ A Brainfuck collection.
 - [rust-brainwords](https://github.com/DimChtz/brainfuck/tree/master/rust-brainwords): Brainfuck code generator in Rust.
 - [py-brainwords](https://github.com/DimChtz/brainfuck/tree/master/py-brainwords): Brainfuck code generator in Python.
 - [matlab-brainwords](https://github.com/DimChtz/brainfuck/tree/master/matlab-brainwords): Brainfuck code generator in Matlab.
+- [rb-brainwords](https://github.com/DimChtz/brainfuck/tree/master/rb-brainwords): Brainfuck code generator in Ruby.
 
 # Examples ( brainfuck code )
 - [helloworld](https://github.com/DimChtz/brainfuck/blob/master/examples/helloworld.bf): Prints: Hello world!
