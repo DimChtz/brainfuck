@@ -11,4 +11,4 @@ A Brainfuck collection.
 - [matlab-brainwords](https://github.com/DimChtz/brainfuck/tree/master/matlab-brainwords): Brainfuck code generator in Matlab.
 
 # Examples ( brainfuck code )
-- [Hello world!](https://github.com/DimChtz/brainfuck/blob/master/examples/helloworld.bf): Prints: Hello world!
+- [helloworld](https://github.com/DimChtz/brainfuck/blob/master/examples/helloworld.bf): Prints: Hello world!
