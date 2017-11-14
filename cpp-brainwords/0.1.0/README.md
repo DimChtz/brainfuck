@@ -1,4 +1,4 @@
-# cpp-brainwords (brainwords)
+# cpp-brainwords (brainwords) - v0.1.0
 A simple and easy to use Brainfuck code generator in C++.
 
 # How to use (Hello world! Example)
